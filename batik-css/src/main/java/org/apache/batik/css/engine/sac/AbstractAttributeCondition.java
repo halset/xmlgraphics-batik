@@ -18,7 +18,7 @@
  */
 package org.apache.batik.css.engine.sac;
 
-import org.w3c.css.sac.AttributeCondition;
+import org.apache.xmlext.org.w3c.css.sac.AttributeCondition;
 
 /**
  * This class provides an abstract implementation of the {@link

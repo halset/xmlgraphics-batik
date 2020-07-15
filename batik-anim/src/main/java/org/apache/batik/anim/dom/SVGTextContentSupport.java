@@ -23,8 +23,8 @@ import java.awt.geom.Rectangle2D;
 
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGPoint;
-import org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPoint;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
 
 import org.apache.batik.dom.svg.SVGOMPoint;
 import org.apache.batik.dom.svg.SVGTextContent;

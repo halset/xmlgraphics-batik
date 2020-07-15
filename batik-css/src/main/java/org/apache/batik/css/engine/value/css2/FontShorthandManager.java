@@ -30,7 +30,7 @@ import org.apache.batik.css.engine.value.ShorthandManager;
 import org.apache.batik.css.engine.value.StringMap;
 import org.apache.batik.css.parser.CSSLexicalUnit;
 import org.apache.batik.util.CSSConstants;
-import org.w3c.css.sac.LexicalUnit;
+import org.apache.xmlext.org.w3c.css.sac.LexicalUnit;
 
 /**
  * This class provides support for the CSS2 'font' shorthand property.

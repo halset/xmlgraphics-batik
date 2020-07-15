@@ -59,8 +59,8 @@ import org.apache.batik.swing.svg.GVTTreeBuilderEvent;
 import org.apache.batik.util.SVGConstants;
 import org.apache.batik.constants.XMLConstants;
 
-import org.w3c.dom.svg.SVGSVGElement;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGSVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 import org.w3c.dom.events.Event;
 import org.w3c.dom.events.EventListener;

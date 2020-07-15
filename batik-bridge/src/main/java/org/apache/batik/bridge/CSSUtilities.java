@@ -41,8 +41,8 @@ import org.apache.batik.gvt.filter.Mask;
 import org.apache.batik.util.CSSConstants;
 import org.apache.batik.constants.XMLConstants;
 import org.w3c.dom.Element;
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 
 /**
  * A collection of utility method involving CSS property. The listed

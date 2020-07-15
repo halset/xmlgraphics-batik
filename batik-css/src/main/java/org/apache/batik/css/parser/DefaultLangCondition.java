@@ -18,7 +18,7 @@
  */
 package org.apache.batik.css.parser;
 
-import org.w3c.css.sac.LangCondition;
+import org.apache.xmlext.org.w3c.css.sac.LangCondition;
 
 /**
  * This class provides an implementation of the

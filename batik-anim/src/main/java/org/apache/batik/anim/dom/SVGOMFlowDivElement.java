@@ -21,7 +21,7 @@ package org.apache.batik.anim.dom;
 import org.apache.batik.dom.AbstractDocument;
 import org.apache.batik.util.SVG12Constants;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGTextContentElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTextContentElement;
 
 /**
  * This class implements the flowDiv element from SVG 1.2

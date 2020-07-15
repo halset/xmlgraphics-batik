@@ -76,7 +76,7 @@
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>xml-apis</groupId>
+      <groupId>org.apache.xml-apis</groupId>
       <artifactId>xml-apis-ext</artifactId>
       <version>${xmlapisext.version}</version>
     </dependency>

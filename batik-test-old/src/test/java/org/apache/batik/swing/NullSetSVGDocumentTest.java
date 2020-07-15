@@ -22,7 +22,7 @@ import java.awt.EventQueue;
 import java.io.PrintWriter;
 import java.io.StringWriter;
 
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 import org.apache.batik.test.DefaultTestReport;
 import org.apache.batik.test.TestReport;

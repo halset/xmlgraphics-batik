@@ -28,7 +28,7 @@ import org.apache.batik.anim.values.AnimatableTransformListValue;
 import org.apache.batik.dom.svg.SVGOMTransform;
 import org.apache.batik.util.SVGTypes;
 
-import org.w3c.dom.svg.SVGTransform;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTransform;
 
 /**
  * Bridge class for the 'animateTransform' animation element.

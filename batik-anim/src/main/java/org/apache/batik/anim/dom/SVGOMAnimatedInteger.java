@@ -23,7 +23,7 @@ import org.apache.batik.anim.values.AnimatableValue;
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAnimatedInteger;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedInteger;
 
 /**
  * This class implements the {@link SVGAnimatedInteger} interface.

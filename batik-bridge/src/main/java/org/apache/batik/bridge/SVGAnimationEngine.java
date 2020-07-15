@@ -82,13 +82,13 @@ import org.apache.batik.constants.XMLConstants;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.CSSStyleDeclaration;
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleDeclaration;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 import org.w3c.dom.events.EventTarget;
-import org.w3c.dom.svg.SVGAngle;
-import org.w3c.dom.svg.SVGLength;
-import org.w3c.dom.svg.SVGPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAngle;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPreserveAspectRatio;
 
 /**
  * An AnimationEngine for SVG documents.

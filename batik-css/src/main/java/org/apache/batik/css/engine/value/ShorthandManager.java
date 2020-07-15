@@ -19,7 +19,7 @@
 package org.apache.batik.css.engine.value;
 
 import org.apache.batik.css.engine.CSSEngine;
-import org.w3c.css.sac.LexicalUnit;
+import org.apache.xmlext.org.w3c.css.sac.LexicalUnit;
 import org.w3c.dom.DOMException;
 
 /**

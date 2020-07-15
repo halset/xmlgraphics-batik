@@ -25,13 +25,13 @@ import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAnimatedBoolean;
-import org.w3c.dom.svg.SVGAnimatedEnumeration;
-import org.w3c.dom.svg.SVGAnimatedLength;
-import org.w3c.dom.svg.SVGLength;
-import org.w3c.dom.svg.SVGPoint;
-import org.w3c.dom.svg.SVGRect;
-import org.w3c.dom.svg.SVGStringList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedBoolean;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedEnumeration;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPoint;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGStringList;
 
 /**
  * This class provides a common superclass for all graphics elements.

@@ -37,7 +37,7 @@ import org.xml.sax.SAXException;
 
 import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Document;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * This class contains methods for creating SVGDocument instances

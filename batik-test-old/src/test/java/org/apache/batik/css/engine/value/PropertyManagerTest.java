@@ -21,7 +21,7 @@ package org.apache.batik.css.engine.value;
 
 import java.util.StringTokenizer;
 
-import org.w3c.css.sac.LexicalUnit;
+import org.apache.xmlext.org.w3c.css.sac.LexicalUnit;
 
 import org.apache.batik.css.engine.value.svg.MarkerManager;
 import org.apache.batik.css.engine.value.svg.OpacityManager;

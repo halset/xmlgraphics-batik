@@ -42,7 +42,7 @@ import org.apache.batik.parser.ParseException;
 
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAngle;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAngle;
 
 /**
  * Bridge class for the 'animateMotion' animation element.

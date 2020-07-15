@@ -74,7 +74,7 @@ import org.w3c.dom.events.EventListener;
 import org.w3c.dom.events.EventTarget;
 import org.w3c.dom.events.MouseEvent;
 import org.w3c.dom.events.MutationEvent;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * This class represents a context used by the various bridges and the

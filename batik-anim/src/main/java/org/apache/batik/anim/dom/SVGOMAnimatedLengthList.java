@@ -24,10 +24,10 @@ import java.util.Iterator;
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGAnimatedLengthList;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGLength;
-import org.w3c.dom.svg.SVGLengthList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedLengthList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLengthList;
 
 import org.apache.batik.anim.values.AnimatableLengthListValue;
 import org.apache.batik.anim.values.AnimatableValue;

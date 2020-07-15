@@ -22,9 +22,9 @@ import org.apache.batik.parser.ParseException;
 import org.apache.batik.parser.PointsHandler;
 import org.apache.batik.parser.PointsParser;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGPoint;
-import org.w3c.dom.svg.SVGPointList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPoint;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPointList;
 
 /**
  * Abstract implementation of {@link SVGPointList}.

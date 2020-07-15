@@ -18,8 +18,8 @@
  */
 package org.apache.batik.dom.svg;
 
-import org.w3c.dom.smil.ElementTimeControl;
-import org.w3c.dom.svg.SVGElement;
+import org.apache.xmlext.org.w3c.dom.smil.ElementTimeControl;
+import org.apache.xmlext.org.w3c.dom.svg.SVGElement;
 
 /**
  * Context class for SVG animation elements to support extra methods.

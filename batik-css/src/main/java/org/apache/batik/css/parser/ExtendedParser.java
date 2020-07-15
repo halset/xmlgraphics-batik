@@ -20,10 +20,10 @@ package org.apache.batik.css.parser;
 
 import java.io.IOException;
 
-import org.w3c.css.sac.CSSException;
-import org.w3c.css.sac.LexicalUnit;
-import org.w3c.css.sac.SACMediaList;
-import org.w3c.css.sac.SelectorList;
+import org.apache.xmlext.org.w3c.css.sac.CSSException;
+import org.apache.xmlext.org.w3c.css.sac.LexicalUnit;
+import org.apache.xmlext.org.w3c.css.sac.SACMediaList;
+import org.apache.xmlext.org.w3c.css.sac.SelectorList;
 
 /**
  * This class implements the {@link org.w3c.css.sac.Parser} interface plus a
@@ -32,7 +32,7 @@ import org.w3c.css.sac.SelectorList;
  * @author <a href="mailto:stephane@hillion.org">Stephane Hillion</a>
  * @version $Id$
  */
-public interface ExtendedParser extends org.w3c.css.sac.Parser {
+public interface ExtendedParser extends org.apache.xmlext.org.w3c.css.sac.Parser {
     
     /**
      * Parse a CSS style declaration (without '{' and '}').

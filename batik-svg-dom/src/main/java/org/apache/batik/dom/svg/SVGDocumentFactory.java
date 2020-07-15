@@ -23,7 +23,7 @@ import java.io.InputStream;
 import java.io.Reader;
 
 import org.apache.batik.dom.util.DocumentFactory;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * This interface represents an object which can build a SVGDocument.

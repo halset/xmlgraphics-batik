@@ -20,8 +20,8 @@ package org.apache.batik.css.engine.sac;
 
 import java.util.Set;
 
-import org.w3c.css.sac.Selector;
-import org.w3c.css.sac.SimpleSelector;
+import org.apache.xmlext.org.w3c.css.sac.Selector;
+import org.apache.xmlext.org.w3c.css.sac.SimpleSelector;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 

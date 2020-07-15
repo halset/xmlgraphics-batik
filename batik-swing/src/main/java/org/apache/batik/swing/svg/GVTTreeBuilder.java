@@ -32,7 +32,7 @@ import org.apache.batik.util.EventDispatcher;
 import org.apache.batik.util.EventDispatcher.Dispatcher;
 import org.apache.batik.util.HaltingThread;
 
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 
 /**

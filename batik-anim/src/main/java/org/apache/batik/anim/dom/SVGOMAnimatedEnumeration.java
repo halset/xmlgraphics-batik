@@ -24,7 +24,7 @@ import org.apache.batik.dom.svg.LiveAttributeException;
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAnimatedEnumeration;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedEnumeration;
 
 /**
  * This class provides an implementation of the {@link

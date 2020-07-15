@@ -23,12 +23,12 @@ import org.apache.batik.css.engine.value.ListValue;
 import org.apache.batik.css.engine.value.StringValue;
 import org.apache.batik.css.engine.value.Value;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.CSSValue;
-import org.w3c.dom.css.CSSValueList;
-import org.w3c.dom.css.Counter;
-import org.w3c.dom.css.RGBColor;
-import org.w3c.dom.css.Rect;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValueList;
+import org.apache.xmlext.org.w3c.dom.css.Counter;
+import org.apache.xmlext.org.w3c.dom.css.RGBColor;
+import org.apache.xmlext.org.w3c.dom.css.Rect;
 
 /**
  * This class implements the {@link org.w3c.dom.css.CSSValue},

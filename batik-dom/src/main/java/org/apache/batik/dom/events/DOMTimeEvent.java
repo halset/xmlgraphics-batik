@@ -19,7 +19,7 @@
 package org.apache.batik.dom.events;
 
 import org.w3c.dom.views.AbstractView;
-import org.w3c.dom.smil.TimeEvent;
+import org.apache.xmlext.org.w3c.dom.smil.TimeEvent;
 
 /**
  * An event class for SMIL timing events.

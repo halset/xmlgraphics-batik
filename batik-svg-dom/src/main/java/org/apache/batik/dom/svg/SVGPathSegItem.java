@@ -18,8 +18,8 @@
  */
 package org.apache.batik.dom.svg;
 
-import org.w3c.dom.svg.SVGPathSeg;
-import org.w3c.dom.svg.SVGPathSegClosePath;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSeg;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegClosePath;
 
 /**
  * Internal representation of the item SVGPathSeg.

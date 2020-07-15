@@ -24,8 +24,8 @@ import org.apache.batik.css.engine.value.Value;
 import org.apache.batik.css.engine.value.svg.SVGColorManager;
 import org.apache.batik.css.engine.value.svg.SVGPaintManager;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.css.CSSRule;
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSRule;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 
 /**
  * This class represents a SVG style declaration.

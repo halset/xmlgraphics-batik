@@ -20,26 +20,26 @@ package org.apache.batik.dom.svg;
 
 import org.apache.batik.parser.PathHandler;
 
-import org.w3c.dom.svg.SVGPathSeg;
-import org.w3c.dom.svg.SVGPathSegArcAbs;
-import org.w3c.dom.svg.SVGPathSegArcRel;
-import org.w3c.dom.svg.SVGPathSegCurvetoCubicAbs;
-import org.w3c.dom.svg.SVGPathSegCurvetoCubicRel;
-import org.w3c.dom.svg.SVGPathSegCurvetoCubicSmoothAbs;
-import org.w3c.dom.svg.SVGPathSegCurvetoCubicSmoothRel;
-import org.w3c.dom.svg.SVGPathSegCurvetoQuadraticAbs;
-import org.w3c.dom.svg.SVGPathSegCurvetoQuadraticRel;
-import org.w3c.dom.svg.SVGPathSegCurvetoQuadraticSmoothAbs;
-import org.w3c.dom.svg.SVGPathSegCurvetoQuadraticSmoothRel;
-import org.w3c.dom.svg.SVGPathSegLinetoAbs;
-import org.w3c.dom.svg.SVGPathSegLinetoHorizontalAbs;
-import org.w3c.dom.svg.SVGPathSegLinetoHorizontalRel;
-import org.w3c.dom.svg.SVGPathSegLinetoRel;
-import org.w3c.dom.svg.SVGPathSegLinetoVerticalAbs;
-import org.w3c.dom.svg.SVGPathSegLinetoVerticalRel;
-import org.w3c.dom.svg.SVGPathSegList;
-import org.w3c.dom.svg.SVGPathSegMovetoAbs;
-import org.w3c.dom.svg.SVGPathSegMovetoRel;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSeg;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegArcAbs;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegArcRel;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegCurvetoCubicAbs;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegCurvetoCubicRel;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegCurvetoCubicSmoothAbs;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegCurvetoCubicSmoothRel;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegCurvetoQuadraticAbs;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegCurvetoQuadraticRel;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegCurvetoQuadraticSmoothAbs;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegCurvetoQuadraticSmoothRel;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegLinetoAbs;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegLinetoHorizontalAbs;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegLinetoHorizontalRel;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegLinetoRel;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegLinetoVerticalAbs;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegLinetoVerticalRel;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegMovetoAbs;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegMovetoRel;
 
 /**
  * This class provide support for the SVGAnimatedPathData 

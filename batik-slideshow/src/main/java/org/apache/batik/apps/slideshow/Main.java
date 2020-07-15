@@ -52,7 +52,7 @@ import org.apache.batik.gvt.GraphicsNode;
 import org.apache.batik.gvt.renderer.StaticRenderer;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  *

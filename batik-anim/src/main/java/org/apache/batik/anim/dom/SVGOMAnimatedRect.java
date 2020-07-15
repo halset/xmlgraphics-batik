@@ -28,8 +28,8 @@ import org.apache.batik.parser.ParseException;
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAnimatedRect;
-import org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
 
 /**
  * Implementation of {@link SVGAnimatedRect}.

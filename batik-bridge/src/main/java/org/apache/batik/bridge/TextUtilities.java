@@ -27,7 +27,7 @@ import org.apache.batik.css.engine.value.Value;
 import org.apache.batik.util.CSSConstants;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
 
 /**
  * A collection of utility method for text.

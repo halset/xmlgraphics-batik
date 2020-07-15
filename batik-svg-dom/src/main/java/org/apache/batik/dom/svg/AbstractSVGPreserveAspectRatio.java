@@ -24,7 +24,7 @@ import org.apache.batik.parser.PreserveAspectRatioParser;
 import org.apache.batik.util.SVGConstants;
 
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPreserveAspectRatio;
 
 /**
  * Abstract implementation for SVGPreservAspectRatio

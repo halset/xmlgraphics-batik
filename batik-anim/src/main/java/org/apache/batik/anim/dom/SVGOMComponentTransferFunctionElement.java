@@ -22,10 +22,10 @@ import org.apache.batik.dom.AbstractDocument;
 import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
-import org.w3c.dom.svg.SVGAnimatedEnumeration;
-import org.w3c.dom.svg.SVGAnimatedNumber;
-import org.w3c.dom.svg.SVGAnimatedNumberList;
-import org.w3c.dom.svg.SVGComponentTransferFunctionElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedEnumeration;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedNumber;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedNumberList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGComponentTransferFunctionElement;
 
 /**
  * This class represents the component transfer function elements.

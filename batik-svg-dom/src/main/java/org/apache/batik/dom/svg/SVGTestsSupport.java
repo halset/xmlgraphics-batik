@@ -19,7 +19,7 @@
 package org.apache.batik.dom.svg;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGStringList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGStringList;
 
 /**
  * This class provides support for SVGTests features.

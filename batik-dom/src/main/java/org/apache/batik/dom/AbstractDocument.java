@@ -73,11 +73,11 @@ import org.w3c.dom.traversal.NodeFilter;
 import org.w3c.dom.traversal.NodeIterator;
 import org.w3c.dom.traversal.TreeWalker;
 import org.w3c.dom.UserDataHandler;
-import org.w3c.dom.xpath.XPathEvaluator;
-import org.w3c.dom.xpath.XPathException;
-import org.w3c.dom.xpath.XPathExpression;
-import org.w3c.dom.xpath.XPathNSResolver;
-import org.w3c.dom.xpath.XPathResult;
+import org.apache.xmlext.org.w3c.dom.xpath.XPathEvaluator;
+import org.apache.xmlext.org.w3c.dom.xpath.XPathException;
+import org.apache.xmlext.org.w3c.dom.xpath.XPathExpression;
+import org.apache.xmlext.org.w3c.dom.xpath.XPathNSResolver;
+import org.apache.xmlext.org.w3c.dom.xpath.XPathResult;
 
 /**
  * This class implements the {@link org.w3c.dom.Document} interface.

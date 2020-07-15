@@ -23,8 +23,8 @@ import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAnimatedBoolean;
-import org.w3c.dom.svg.SVGFontElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedBoolean;
+import org.apache.xmlext.org.w3c.dom.svg.SVGFontElement;
 
 /**
  * This class implements {@link SVGFontElement}.

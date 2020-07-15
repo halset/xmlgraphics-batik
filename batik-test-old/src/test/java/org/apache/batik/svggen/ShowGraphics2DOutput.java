@@ -25,7 +25,7 @@ import java.awt.geom.Ellipse2D;
 
 import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 import org.apache.batik.anim.dom.SVGDOMImplementation;
 import org.apache.batik.bridge.BaseScriptingEnvironment;

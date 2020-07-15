@@ -55,9 +55,9 @@ import org.w3c.dom.events.DocumentEvent;
 import org.w3c.dom.events.Event;
 import org.w3c.dom.events.EventListener;
 import org.w3c.dom.events.EventTarget;
-import org.w3c.dom.svg.SVGDocument;
-import org.w3c.dom.svg.SVGSVGElement;
-import org.w3c.dom.svg.EventListenerInitializer;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGSVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.EventListenerInitializer;
 
 /**
  * This class is the base class for SVG scripting.

@@ -19,7 +19,7 @@
 package org.apache.batik.anim.timing;
 
 import org.w3c.dom.events.Event;
-import org.w3c.dom.smil.TimeEvent;
+import org.apache.xmlext.org.w3c.dom.smil.TimeEvent;
 
 /**
  * A class to handle repeat event SMIL timing specifiers.

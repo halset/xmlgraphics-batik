@@ -34,7 +34,7 @@ import org.apache.batik.constants.XMLConstants;
 import org.w3c.dom.Element;
 import org.w3c.dom.events.Event;
 import org.w3c.dom.events.EventListener;
-import org.w3c.dom.svg.SVGAElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAElement;
 
 /**
  * Bridge class for the &lt;a&gt; element.

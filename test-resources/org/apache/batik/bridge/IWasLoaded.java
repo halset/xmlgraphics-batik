@@ -17,7 +17,7 @@
 
  */package org.apache.batik.bridge;
 
-import org.w3c.dom.*;
+import org.apache.xmlext.org.w3c.dom.*;
 
 /**
  * If this script is loaded by jarCheckNoLoad.svg, it will mark

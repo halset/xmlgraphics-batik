@@ -19,7 +19,7 @@
 package org.apache.batik.dom.svg;
 
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
 
 /**
  * An implementation of {@link SVGRect} that is not associated with an

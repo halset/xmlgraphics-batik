@@ -31,8 +31,8 @@ import org.w3c.dom.DOMException;
 import org.w3c.dom.Node;
 import org.w3c.dom.events.Event;
 import org.w3c.dom.events.EventListener;
-import org.w3c.dom.stylesheets.LinkStyle;
-import org.w3c.dom.svg.SVGStyleElement;
+import org.apache.xmlext.org.w3c.dom.stylesheets.LinkStyle;
+import org.apache.xmlext.org.w3c.dom.svg.SVGStyleElement;
 
 /**
  * This class implements {@link SVGStyleElement}.
@@ -152,7 +152,7 @@ public class SVGOMStyleElement
      * <b>DOM</b>: Implements {@link
      * org.w3c.dom.stylesheets.LinkStyle#getSheet()}.
      */
-    public org.w3c.dom.stylesheets.StyleSheet getSheet() {
+    public org.apache.xmlext.org.w3c.dom.stylesheets.StyleSheet getSheet() {
         throw new UnsupportedOperationException
             ("LinkStyle.getSheet() is not implemented"); // XXX
     }

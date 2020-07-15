@@ -22,8 +22,8 @@ import java.awt.geom.AffineTransform;
 import java.awt.geom.NoninvertibleTransformException;
 
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGMatrix;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMatrix;
 
 /**
  * This class provides an abstract implementation of the {@link SVGMatrix}

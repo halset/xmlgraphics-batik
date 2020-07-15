@@ -26,7 +26,7 @@ import org.apache.batik.util.ParsedURL;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * This class is used to resolve the URI that can be found in a SVG document.

@@ -66,9 +66,9 @@ import org.w3c.dom.events.DocumentEvent;
 import org.w3c.dom.events.Event;
 import org.w3c.dom.events.EventListener;
 import org.w3c.dom.events.EventTarget;
-import org.w3c.dom.svg.SVGDocument;
-import org.w3c.dom.svg.SVGImageElement;
-import org.w3c.dom.svg.SVGSVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGImageElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGSVGElement;
 
 /**
  * Bridge class for the &lt;image&gt; element.

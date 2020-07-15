@@ -40,9 +40,9 @@ import org.apache.batik.util.SVGTypes;
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Node;
-import org.w3c.dom.css.CSSStyleDeclaration;
-import org.w3c.dom.css.CSSValue;
-import org.w3c.dom.svg.SVGAnimatedString;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleDeclaration;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedString;
 
 /**
  * This class provides a common superclass for elements which implement

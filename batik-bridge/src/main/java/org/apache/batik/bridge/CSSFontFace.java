@@ -30,8 +30,8 @@ import org.apache.batik.css.engine.value.ValueManager;
 import org.apache.batik.gvt.font.GVTFontFamily;
 import org.apache.batik.util.ParsedURL;
 import org.apache.batik.util.SVGConstants;
-import org.w3c.dom.css.CSSValue;
-import org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
 
 /**
  * This class represents a &lt;font-face&gt; element or @font-face rule

@@ -58,7 +58,7 @@ import org.apache.batik.util.ParsedURL;
 import org.apache.batik.util.SVGConstants;
 import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Document;
-import org.w3c.dom.svg.SVGSVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGSVGElement;
 
 /**
  * This class may be the base class of all transcoders which take an

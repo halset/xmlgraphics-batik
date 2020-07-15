@@ -26,8 +26,8 @@ import org.apache.batik.anim.dom.AnimationTarget;
 import org.apache.batik.dom.svg.AbstractSVGTransform;
 import org.apache.batik.dom.svg.SVGOMTransform;
 
-import org.w3c.dom.svg.SVGMatrix;
-import org.w3c.dom.svg.SVGTransform;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMatrix;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTransform;
 
 /**
  * An SVG transform list value in the animation system.

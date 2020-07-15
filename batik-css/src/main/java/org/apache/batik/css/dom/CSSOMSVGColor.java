@@ -26,15 +26,15 @@ import org.apache.batik.css.engine.value.svg.ICCColor;
 import org.apache.batik.util.CSSConstants;
 
 import org.w3c.dom.DOMException;
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.CSSValue;
-import org.w3c.dom.css.Counter;
-import org.w3c.dom.css.RGBColor;
-import org.w3c.dom.css.Rect;
-import org.w3c.dom.svg.SVGColor;
-import org.w3c.dom.svg.SVGICCColor;
-import org.w3c.dom.svg.SVGNumber;
-import org.w3c.dom.svg.SVGNumberList;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.Counter;
+import org.apache.xmlext.org.w3c.dom.css.RGBColor;
+import org.apache.xmlext.org.w3c.dom.css.Rect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGColor;
+import org.apache.xmlext.org.w3c.dom.svg.SVGICCColor;
+import org.apache.xmlext.org.w3c.dom.svg.SVGNumber;
+import org.apache.xmlext.org.w3c.dom.svg.SVGNumberList;
 
 /**
  * This class implements the {@link SVGColor} interface.

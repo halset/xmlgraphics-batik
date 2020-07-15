@@ -18,8 +18,8 @@
  */
 package org.apache.batik.css.engine.sac;
 
-import org.w3c.css.sac.CombinatorCondition;
-import org.w3c.css.sac.Condition;
+import org.apache.xmlext.org.w3c.css.sac.CombinatorCondition;
+import org.apache.xmlext.org.w3c.css.sac.Condition;
 
 /**
  * This class provides an abstract implementation of the {@link

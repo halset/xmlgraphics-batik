@@ -18,7 +18,7 @@
  */
 package org.apache.batik.dom.util;
 
-import org.w3c.dom.css.CSSStyleDeclaration;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleDeclaration;
 
 /**
  * This interface represents CSSStyleDeclaration factories.

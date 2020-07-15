@@ -29,7 +29,7 @@ import org.apache.batik.util.CleanerThread;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * This class is responsible on loading an SVG document and

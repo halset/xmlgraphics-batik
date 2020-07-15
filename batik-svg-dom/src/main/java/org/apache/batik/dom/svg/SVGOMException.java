@@ -18,7 +18,7 @@
  */
 package org.apache.batik.dom.svg;
 
-import org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
 
 /**
  * An implementation of the SVGException class.

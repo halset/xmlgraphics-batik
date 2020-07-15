@@ -33,8 +33,8 @@ import org.apache.batik.util.SVGFeatureStrings;
 import org.apache.batik.util.XMLResourceDescriptor;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGAElement;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * An abstract user agent adaptor implementation.  It exists to simply

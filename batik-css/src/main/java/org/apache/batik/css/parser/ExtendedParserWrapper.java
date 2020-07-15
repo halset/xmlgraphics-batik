@@ -23,16 +23,16 @@ import java.io.StringReader;
 import java.util.Locale;
 import java.util.StringTokenizer;
 
-import org.w3c.css.sac.CSSException;
-import org.w3c.css.sac.ConditionFactory;
-import org.w3c.css.sac.DocumentHandler;
-import org.w3c.css.sac.ErrorHandler;
-import org.w3c.css.sac.InputSource;
-import org.w3c.css.sac.LexicalUnit;
-import org.w3c.css.sac.Parser;
-import org.w3c.css.sac.SACMediaList;
-import org.w3c.css.sac.SelectorFactory;
-import org.w3c.css.sac.SelectorList;
+import org.apache.xmlext.org.w3c.css.sac.CSSException;
+import org.apache.xmlext.org.w3c.css.sac.ConditionFactory;
+import org.apache.xmlext.org.w3c.css.sac.DocumentHandler;
+import org.apache.xmlext.org.w3c.css.sac.ErrorHandler;
+import org.apache.xmlext.org.w3c.css.sac.InputSource;
+import org.apache.xmlext.org.w3c.css.sac.LexicalUnit;
+import org.apache.xmlext.org.w3c.css.sac.Parser;
+import org.apache.xmlext.org.w3c.css.sac.SACMediaList;
+import org.apache.xmlext.org.w3c.css.sac.SelectorFactory;
+import org.apache.xmlext.org.w3c.css.sac.SelectorList;
 
 /**
  * This class implements the {@link org.apache.batik.css.parser.ExtendedParser} 

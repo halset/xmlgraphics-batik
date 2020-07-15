@@ -18,8 +18,8 @@
  */
 package org.apache.batik.css.parser;
 
-import org.w3c.css.sac.CSSParseException;
-import org.w3c.css.sac.ErrorHandler;
+import org.apache.xmlext.org.w3c.css.sac.CSSParseException;
+import org.apache.xmlext.org.w3c.css.sac.ErrorHandler;
 
 /**
  * This class provides a default implementation of the

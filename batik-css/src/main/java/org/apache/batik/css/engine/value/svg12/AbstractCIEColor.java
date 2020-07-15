@@ -22,7 +22,7 @@ import org.apache.batik.css.engine.value.AbstractValue;
 
 import org.apache.xmlgraphics.java2d.color.ColorSpaces;
 
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 
 /**
  * This is a base class for CIE Lab/LCH color values.

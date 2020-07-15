@@ -18,7 +18,7 @@
  */
 package org.apache.batik.dom.svg;
 
-import org.w3c.dom.svg.SVGNumberList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGNumberList;
 
 /**
  * Representation of the item SVGNumber.

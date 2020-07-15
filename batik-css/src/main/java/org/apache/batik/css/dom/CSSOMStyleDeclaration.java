@@ -23,9 +23,9 @@ import java.util.Map;
 
 import org.apache.batik.css.engine.value.Value;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.css.CSSRule;
-import org.w3c.dom.css.CSSStyleDeclaration;
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSRule;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleDeclaration;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 
 /**
  * This class represents a style declaration.

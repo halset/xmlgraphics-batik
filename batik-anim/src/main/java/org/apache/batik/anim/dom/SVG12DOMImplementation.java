@@ -41,7 +41,7 @@ import org.apache.batik.util.ParsedURL;
 import org.apache.batik.util.SVG12Constants;
 import org.apache.batik.util.XBLConstants;
 
-import org.w3c.css.sac.InputSource;
+import org.apache.xmlext.org.w3c.css.sac.InputSource;
 import org.w3c.dom.Document;
 import org.w3c.dom.DocumentType;
 import org.w3c.dom.DOMImplementation;

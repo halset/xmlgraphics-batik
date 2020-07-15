@@ -18,7 +18,7 @@
  */
 package org.apache.batik.css.engine.value;
 
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 
 /**
  * This singleton class represents the 'inherit' value.

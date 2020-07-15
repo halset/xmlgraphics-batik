@@ -28,18 +28,18 @@ import org.apache.batik.dom.util.XMLSupport;
 import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
-import org.w3c.dom.svg.SVGAnimatedBoolean;
-import org.w3c.dom.svg.SVGAnimatedTransformList;
-import org.w3c.dom.svg.SVGElement;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGExternalResourcesRequired;
-import org.w3c.dom.svg.SVGLangSpace;
-import org.w3c.dom.svg.SVGLocatable;
-import org.w3c.dom.svg.SVGMatrix;
-import org.w3c.dom.svg.SVGRect;
-import org.w3c.dom.svg.SVGStringList;
-import org.w3c.dom.svg.SVGTests;
-import org.w3c.dom.svg.SVGTransformable;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedBoolean;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedTransformList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGExternalResourcesRequired;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLangSpace;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLocatable;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMatrix;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGStringList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTests;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTransformable;
 
 /**
  * An abstract base class for graphical extension elements.  This class

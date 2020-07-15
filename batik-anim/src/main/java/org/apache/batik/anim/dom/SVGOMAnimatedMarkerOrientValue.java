@@ -24,10 +24,10 @@ import org.apache.batik.util.SVGConstants;
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAnimatedAngle;
-import org.w3c.dom.svg.SVGAnimatedEnumeration;
-import org.w3c.dom.svg.SVGAngle;
-import org.w3c.dom.svg.SVGMarkerElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedAngle;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedEnumeration;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAngle;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMarkerElement;
 
 /**
  * A class that handles an {@link SVGAnimatedAngle} and an

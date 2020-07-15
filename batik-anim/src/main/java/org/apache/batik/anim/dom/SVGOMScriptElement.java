@@ -26,8 +26,8 @@ import org.apache.batik.util.SVGTypes;
 
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAnimatedBoolean;
-import org.w3c.dom.svg.SVGScriptElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedBoolean;
+import org.apache.xmlext.org.w3c.dom.svg.SVGScriptElement;
 
 /**
  * This class implements {@link org.w3c.dom.svg.SVGScriptElement}.

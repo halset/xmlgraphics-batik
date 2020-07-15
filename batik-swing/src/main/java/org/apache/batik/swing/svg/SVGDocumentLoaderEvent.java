@@ -20,7 +20,7 @@ package org.apache.batik.swing.svg;
 
 import java.util.EventObject;
 
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * This class represents an event which indicate an event originated

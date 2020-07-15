@@ -52,10 +52,10 @@ import org.apache.batik.util.SVGConstants;
 import org.apache.batik.util.SoftReferenceCache;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.CSSValue;
-import org.w3c.dom.svg.SVGDocument;
-import org.w3c.dom.svg.SVGPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPreserveAspectRatio;
 
 
 /**

@@ -23,7 +23,7 @@ import org.apache.batik.anim.timing.TimedElement;
 import org.apache.batik.anim.values.AnimatableValue;
 import org.apache.batik.anim.values.AnimatableTransformListValue;
 
-import org.w3c.dom.svg.SVGTransform;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTransform;
 
 /**
  * An animation class for 'animateTransform' animations.

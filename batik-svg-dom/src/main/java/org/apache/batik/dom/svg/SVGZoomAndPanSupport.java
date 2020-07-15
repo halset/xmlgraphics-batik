@@ -22,7 +22,7 @@ import org.apache.batik.dom.AbstractNode;
 import org.apache.batik.util.SVGConstants;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGZoomAndPan;
+import org.apache.xmlext.org.w3c.dom.svg.SVGZoomAndPan;
 
 /**
  * This class provides support for SVGZoomAndPan features.

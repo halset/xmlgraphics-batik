@@ -20,7 +20,7 @@ package org.apache.batik.dom.svg;
 
 import java.util.List;
 
-import org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
 import org.w3c.dom.Element;
 
 /**

@@ -26,15 +26,15 @@ import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAnimatedBoolean;
-import org.w3c.dom.svg.SVGAnimatedEnumeration;
-import org.w3c.dom.svg.SVGAnimatedLength;
-import org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
-import org.w3c.dom.svg.SVGAnimatedRect;
-import org.w3c.dom.svg.SVGAnimatedString;
-import org.w3c.dom.svg.SVGAnimatedTransformList;
-import org.w3c.dom.svg.SVGPatternElement;
-import org.w3c.dom.svg.SVGStringList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedBoolean;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedEnumeration;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedString;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedTransformList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPatternElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGStringList;
 
 /**
  * This class implements {@link org.w3c.dom.svg.SVGStopElement}.

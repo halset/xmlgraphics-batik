@@ -18,7 +18,7 @@
  */
 package org.apache.batik.css.engine;
 
-import org.w3c.css.sac.SACMediaList;
+import org.apache.xmlext.org.w3c.css.sac.SACMediaList;
 
 /**
  * This class represents a list of rules.

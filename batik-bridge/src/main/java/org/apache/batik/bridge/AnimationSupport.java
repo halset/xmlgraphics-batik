@@ -31,7 +31,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.events.DocumentEvent;
 import org.w3c.dom.events.EventTarget;
-import org.w3c.dom.smil.TimeEvent;
+import org.apache.xmlext.org.w3c.dom.smil.TimeEvent;
 
 /**
  * Class that provides utilities for animation support.

@@ -147,8 +147,8 @@ import org.apache.batik.xml.XMLUtilities;
 
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.css.ViewCSS;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.css.ViewCSS;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * This class represents a SVG viewer swing frame.

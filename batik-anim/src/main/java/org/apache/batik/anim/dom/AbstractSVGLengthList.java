@@ -26,9 +26,9 @@ import org.apache.batik.parser.LengthListParser;
 import org.apache.batik.parser.ParseException;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGLength;
-import org.w3c.dom.svg.SVGLengthList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLengthList;
 
 /**
  * This class is the implementation of

@@ -26,8 +26,8 @@ import org.apache.batik.parser.UnitProcessor;
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAnimatedLength;
-import org.w3c.dom.svg.SVGLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLength;
 
 /**
  * This class provides an implementation of the {@link

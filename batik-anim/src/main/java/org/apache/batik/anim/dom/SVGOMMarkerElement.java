@@ -24,14 +24,14 @@ import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAngle;
-import org.w3c.dom.svg.SVGAnimatedAngle;
-import org.w3c.dom.svg.SVGAnimatedBoolean;
-import org.w3c.dom.svg.SVGAnimatedEnumeration;
-import org.w3c.dom.svg.SVGAnimatedLength;
-import org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
-import org.w3c.dom.svg.SVGAnimatedRect;
-import org.w3c.dom.svg.SVGMarkerElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAngle;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedAngle;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedBoolean;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedEnumeration;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMarkerElement;
 
 /**
  * This class implements {@link org.w3c.dom.svg.SVGMarkerElement}.

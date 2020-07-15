@@ -23,7 +23,7 @@ import org.apache.batik.gvt.GraphicsNode;
 
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGTests;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTests;
 
 /**
  * Bridge class for the &lt;switch&gt; element.

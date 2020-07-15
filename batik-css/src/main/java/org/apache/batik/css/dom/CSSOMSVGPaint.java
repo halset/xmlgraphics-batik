@@ -24,9 +24,9 @@ import org.apache.batik.css.engine.value.svg.ICCColor;
 import org.apache.batik.util.CSSConstants;
 
 import org.w3c.dom.DOMException;
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.CSSValue;
-import org.w3c.dom.svg.SVGPaint;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPaint;
 
 /**
  * This class implements the {@link SVGPaint} interface.

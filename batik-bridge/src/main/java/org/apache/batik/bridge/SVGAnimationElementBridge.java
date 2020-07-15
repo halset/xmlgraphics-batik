@@ -42,7 +42,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.events.EventTarget;
 import org.w3c.dom.events.MutationEvent;
-import org.w3c.dom.svg.SVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGElement;
 
 /**
  * An abstract base class for the SVG animation element bridges.

@@ -43,8 +43,8 @@ import org.w3c.dom.Node;
 import org.w3c.dom.events.DocumentEvent;
 import org.w3c.dom.events.EventTarget;
 import org.w3c.dom.events.MutationEvent;
-import org.w3c.dom.svg.SVGFitToViewBox;
-import org.w3c.dom.svg.SVGTransformable;
+import org.apache.xmlext.org.w3c.dom.svg.SVGFitToViewBox;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTransformable;
 
 /**
  * The base bridge class for SVG graphics node. By default, the namespace URI is

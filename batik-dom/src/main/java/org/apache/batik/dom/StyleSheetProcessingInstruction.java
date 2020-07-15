@@ -23,8 +23,8 @@ import org.apache.batik.dom.util.DOMUtilities;
 
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Node;
-import org.w3c.dom.stylesheets.LinkStyle;
-import org.w3c.dom.stylesheets.StyleSheet;
+import org.apache.xmlext.org.w3c.dom.stylesheets.LinkStyle;
+import org.apache.xmlext.org.w3c.dom.stylesheets.StyleSheet;
 
 import java.util.HashMap;
 

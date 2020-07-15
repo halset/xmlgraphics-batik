@@ -21,7 +21,7 @@ package org.apache.batik.anim.dom;
 import org.apache.batik.anim.values.AnimatableValue;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLength;
 
 /**
  * An interface for targets of animation to provide context information.

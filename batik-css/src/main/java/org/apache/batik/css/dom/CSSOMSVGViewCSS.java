@@ -21,7 +21,7 @@ package org.apache.batik.css.dom;
 import org.apache.batik.css.engine.CSSEngine;
 import org.apache.batik.css.engine.CSSStylableElement;
 import org.w3c.dom.Element;
-import org.w3c.dom.css.CSSStyleDeclaration;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleDeclaration;
 
 /**
  * This class represents an object which provides the computed styles

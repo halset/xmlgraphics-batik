@@ -25,10 +25,10 @@ import org.apache.batik.parser.TransformListHandler;
 import org.apache.batik.parser.TransformListParser;
 
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGMatrix;
-import org.w3c.dom.svg.SVGTransform;
-import org.w3c.dom.svg.SVGTransformList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMatrix;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTransform;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTransformList;
 
 /**
  * This class is the implementation of

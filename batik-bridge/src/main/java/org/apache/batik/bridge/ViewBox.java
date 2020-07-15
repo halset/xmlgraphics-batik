@@ -34,10 +34,10 @@ import org.apache.batik.util.SVGConstants;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
-import org.w3c.dom.svg.SVGAnimatedRect;
-import org.w3c.dom.svg.SVGPreserveAspectRatio;
-import org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
 
 /**
  * This class provides convenient methods to handle viewport.

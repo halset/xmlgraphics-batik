@@ -27,8 +27,8 @@ import org.apache.batik.gvt.event.EventDispatcher;
 import org.apache.batik.util.ParsedURL;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGAElement;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * An interface that provides access to the User Agent informations

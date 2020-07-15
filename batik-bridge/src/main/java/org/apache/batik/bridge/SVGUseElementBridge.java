@@ -41,8 +41,8 @@ import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 import org.w3c.dom.events.Event;
 import org.w3c.dom.events.EventListener;
-import org.w3c.dom.svg.SVGTransformable;
-import org.w3c.dom.svg.SVGUseElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTransformable;
+import org.apache.xmlext.org.w3c.dom.svg.SVGUseElement;
 
 /**
  * Bridge class for the &lt;use&gt; element.

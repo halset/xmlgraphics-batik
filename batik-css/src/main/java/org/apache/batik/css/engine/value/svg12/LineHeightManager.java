@@ -29,9 +29,9 @@ import org.apache.batik.css.engine.value.ValueManager;
 import org.apache.batik.util.SVG12CSSConstants;
 import org.apache.batik.util.SVGTypes;
 
-import org.w3c.css.sac.LexicalUnit;
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.css.sac.LexicalUnit;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 import org.w3c.dom.DOMException;
 
 /**

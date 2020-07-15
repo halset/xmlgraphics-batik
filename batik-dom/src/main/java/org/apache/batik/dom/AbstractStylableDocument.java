@@ -21,12 +21,12 @@ package org.apache.batik.dom;
 
 import org.apache.batik.css.engine.CSSEngine;
 
-import org.w3c.dom.css.DocumentCSS;
-import org.w3c.dom.css.CSSStyleDeclaration;
+import org.apache.xmlext.org.w3c.dom.css.DocumentCSS;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleDeclaration;
 import org.w3c.dom.DocumentType;
 import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Element;
-import org.w3c.dom.stylesheets.StyleSheetList;
+import org.apache.xmlext.org.w3c.dom.stylesheets.StyleSheetList;
 import org.w3c.dom.views.DocumentView;
 import org.w3c.dom.views.AbstractView;
 

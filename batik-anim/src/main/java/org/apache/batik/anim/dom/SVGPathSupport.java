@@ -21,8 +21,8 @@ package org.apache.batik.anim.dom;
 
 import java.awt.geom.Point2D;
 
-import org.w3c.dom.svg.SVGPoint;
-import org.w3c.dom.svg.SVGMatrix;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPoint;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMatrix;
 import org.w3c.dom.DOMException;
 
 import org.apache.batik.dom.svg.SVGPathContext;

@@ -27,11 +27,11 @@ import org.apache.batik.dom.svg.SVGContext;
 
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGElement;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGFitToViewBox;
-import org.w3c.dom.svg.SVGMatrix;
-import org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGFitToViewBox;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMatrix;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
 
 /**
  * This class provides support for the SVGLocatable interface.

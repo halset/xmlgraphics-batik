@@ -29,19 +29,19 @@ import org.apache.batik.i18n.Localizable;
 import org.apache.batik.i18n.LocalizableSupport;
 import org.apache.batik.util.CSSConstants;
 import org.apache.batik.util.ParsedURL;
-import org.w3c.css.sac.CSSException;
-import org.w3c.css.sac.CSSParseException;
-import org.w3c.css.sac.Condition;
-import org.w3c.css.sac.ConditionFactory;
-import org.w3c.css.sac.DocumentHandler;
-import org.w3c.css.sac.ErrorHandler;
-import org.w3c.css.sac.InputSource;
-import org.w3c.css.sac.LexicalUnit;
-import org.w3c.css.sac.SACMediaList;
-import org.w3c.css.sac.Selector;
-import org.w3c.css.sac.SelectorFactory;
-import org.w3c.css.sac.SelectorList;
-import org.w3c.css.sac.SimpleSelector;
+import org.apache.xmlext.org.w3c.css.sac.CSSException;
+import org.apache.xmlext.org.w3c.css.sac.CSSParseException;
+import org.apache.xmlext.org.w3c.css.sac.Condition;
+import org.apache.xmlext.org.w3c.css.sac.ConditionFactory;
+import org.apache.xmlext.org.w3c.css.sac.DocumentHandler;
+import org.apache.xmlext.org.w3c.css.sac.ErrorHandler;
+import org.apache.xmlext.org.w3c.css.sac.InputSource;
+import org.apache.xmlext.org.w3c.css.sac.LexicalUnit;
+import org.apache.xmlext.org.w3c.css.sac.SACMediaList;
+import org.apache.xmlext.org.w3c.css.sac.Selector;
+import org.apache.xmlext.org.w3c.css.sac.SelectorFactory;
+import org.apache.xmlext.org.w3c.css.sac.SelectorList;
+import org.apache.xmlext.org.w3c.css.sac.SimpleSelector;
 
 /**
  * This class implements the {@link org.w3c.css.sac.Parser} interface.

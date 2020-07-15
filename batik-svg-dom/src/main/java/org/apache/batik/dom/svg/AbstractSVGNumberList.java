@@ -24,9 +24,9 @@ import org.apache.batik.parser.ParseException;
 
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGNumber;
-import org.w3c.dom.svg.SVGNumberList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGNumber;
+import org.apache.xmlext.org.w3c.dom.svg.SVGNumberList;
 
 /**
  * This class is the implementation of {@link SVGNumberList}.

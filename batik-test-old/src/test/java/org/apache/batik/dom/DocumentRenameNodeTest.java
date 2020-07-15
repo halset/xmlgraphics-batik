@@ -21,8 +21,8 @@ package org.apache.batik.dom;
 import org.w3c.dom.Attr;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGGElement;
-import org.w3c.dom.svg.SVGSVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGSVGElement;
 
 /**
  * Tests Document.renameNode.

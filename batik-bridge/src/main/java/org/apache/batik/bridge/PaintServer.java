@@ -53,8 +53,8 @@ import org.apache.xmlgraphics.java2d.color.profile.NamedColorProfile;
 import org.apache.xmlgraphics.java2d.color.profile.NamedColorProfileParser;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 
 /**
  * A collection of utility methods to deliver <code>java.awt.Paint</code>,

@@ -25,10 +25,10 @@ import org.apache.batik.dom.AbstractDocument;
 import org.apache.batik.util.ParsedURL;
 
 import org.w3c.dom.Node;
-import org.w3c.dom.css.CSSStyleDeclaration;
-import org.w3c.dom.css.CSSValue;
-import org.w3c.dom.svg.SVGAnimatedString;
-import org.w3c.dom.svg.SVGStylable;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleDeclaration;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedString;
+import org.apache.xmlext.org.w3c.dom.svg.SVGStylable;
 
 /**
  * This class implements the basic features an element must have in

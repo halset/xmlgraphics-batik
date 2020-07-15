@@ -23,7 +23,7 @@ import java.io.PrintWriter;
 import java.io.StringWriter;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGTextContentElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTextContentElement;
 
 import org.apache.batik.swing.JSVGCanvas;
 import org.apache.batik.swing.JSVGCanvasHandler;

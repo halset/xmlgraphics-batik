@@ -18,8 +18,8 @@
  */
 package org.apache.batik.dom.svg;
 
-import org.w3c.dom.svg.SVGMatrix;
-import org.w3c.dom.svg.SVGPoint;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMatrix;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPoint;
 
 /**
  * An {@link SVGPoint} in the list.

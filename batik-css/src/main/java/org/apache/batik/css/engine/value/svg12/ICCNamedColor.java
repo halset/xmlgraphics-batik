@@ -20,7 +20,7 @@ package org.apache.batik.css.engine.value.svg12;
 
 import org.apache.batik.css.engine.value.AbstractValue;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 
 /**
  * This class represents an ICC named color value.

@@ -22,8 +22,8 @@ import org.apache.batik.dom.AbstractDocument;
 import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
-import org.w3c.dom.svg.SVGAnimatedPoints;
-import org.w3c.dom.svg.SVGPointList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedPoints;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPointList;
 
 /**
  * This class provides a common superclass for shape elements that are

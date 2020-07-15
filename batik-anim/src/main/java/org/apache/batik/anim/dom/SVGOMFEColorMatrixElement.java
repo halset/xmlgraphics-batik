@@ -23,10 +23,10 @@ import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAnimatedEnumeration;
-import org.w3c.dom.svg.SVGAnimatedNumberList;
-import org.w3c.dom.svg.SVGAnimatedString;
-import org.w3c.dom.svg.SVGFEColorMatrixElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedEnumeration;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedNumberList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedString;
+import org.apache.xmlext.org.w3c.dom.svg.SVGFEColorMatrixElement;
 
 /**
  * This class implements {@link SVGFEColorMatrixElement}.

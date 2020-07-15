@@ -18,7 +18,7 @@
  */
 package org.apache.batik.css.engine.value;
 
-import org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
 
 /**
  * This class represents uri values.

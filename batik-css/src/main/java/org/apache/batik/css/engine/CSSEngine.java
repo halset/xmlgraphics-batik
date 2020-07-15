@@ -39,12 +39,12 @@ import org.apache.batik.css.parser.ExtendedParser;
 import org.apache.batik.util.CSSConstants;
 import org.apache.batik.util.ParsedURL;
 
-import org.w3c.css.sac.CSSException;
-import org.w3c.css.sac.DocumentHandler;
-import org.w3c.css.sac.InputSource;
-import org.w3c.css.sac.LexicalUnit;
-import org.w3c.css.sac.SACMediaList;
-import org.w3c.css.sac.SelectorList;
+import org.apache.xmlext.org.w3c.css.sac.CSSException;
+import org.apache.xmlext.org.w3c.css.sac.DocumentHandler;
+import org.apache.xmlext.org.w3c.css.sac.InputSource;
+import org.apache.xmlext.org.w3c.css.sac.LexicalUnit;
+import org.apache.xmlext.org.w3c.css.sac.SACMediaList;
+import org.apache.xmlext.org.w3c.css.sac.SelectorList;
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Document;

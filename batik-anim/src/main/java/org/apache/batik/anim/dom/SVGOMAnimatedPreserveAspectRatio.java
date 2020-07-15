@@ -27,8 +27,8 @@ import org.apache.batik.util.SVGConstants;
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
-import org.w3c.dom.svg.SVGPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPreserveAspectRatio;
 
 /**
  * This class implements the {@link SVGAnimatedPreserveAspectRatio} interface.

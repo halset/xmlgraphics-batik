@@ -23,7 +23,7 @@ import org.apache.batik.parser.DefaultAngleHandler;
 import org.apache.batik.parser.ParseException;
 
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAngle;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAngle;
 
 /**
  * Implementation of an {@link SVGAngle} not associated with any attribute.

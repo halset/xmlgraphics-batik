@@ -28,12 +28,12 @@ import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAnimatedTransformList;
-import org.w3c.dom.svg.SVGElement;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGMatrix;
-import org.w3c.dom.svg.SVGRect;
-import org.w3c.dom.svg.SVGTextElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedTransformList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMatrix;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTextElement;
 
 /**
  * This class implements {@link SVGTextElement}.

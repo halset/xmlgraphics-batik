@@ -36,13 +36,13 @@ import org.apache.batik.util.Service;
 import org.apache.batik.util.XMLResourceDescriptor;
 import org.apache.batik.xml.XMLUtilities;
 
-import org.w3c.css.sac.Parser;
+import org.apache.xmlext.org.w3c.css.sac.Parser;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Document;
 import org.w3c.dom.DocumentType;
 import org.w3c.dom.Element;
-import org.w3c.dom.css.DOMImplementationCSS;
-import org.w3c.dom.css.ViewCSS;
+import org.apache.xmlext.org.w3c.dom.css.DOMImplementationCSS;
+import org.apache.xmlext.org.w3c.dom.css.ViewCSS;
 
 /**
  * This class implements the {@link org.w3c.dom.DOMImplementation} interface.

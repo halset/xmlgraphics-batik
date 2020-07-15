@@ -25,7 +25,7 @@ import org.apache.batik.css.engine.value.Value;
 import org.apache.batik.css.engine.value.svg.SVGValueConstants;
 import org.apache.batik.util.SVG12CSSConstants;
 
-import org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
 
 /**
  * This interface provides constants for SVG 1.2 values.

@@ -19,7 +19,7 @@
 package org.apache.batik.dom.svg;
 
 import org.apache.batik.dom.events.AbstractEvent;
-import org.w3c.dom.svg.SVGEvent;
+import org.apache.xmlext.org.w3c.dom.svg.SVGEvent;
 
 /**
  * This class provides an implementation of the SVGEvent interface.

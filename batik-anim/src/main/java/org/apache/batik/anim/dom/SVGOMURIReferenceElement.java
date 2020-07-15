@@ -21,8 +21,8 @@ package org.apache.batik.anim.dom;
 import org.apache.batik.dom.AbstractDocument;
 import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
-import org.w3c.dom.svg.SVGAnimatedString;
-import org.w3c.dom.svg.SVGURIReference;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedString;
+import org.apache.xmlext.org.w3c.dom.svg.SVGURIReference;
 
 /**
  * This class implements {@link SVGURIReference}.

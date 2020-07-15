@@ -25,7 +25,7 @@ import org.apache.batik.dom.util.XMLSupport;
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGColorProfileElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGColorProfileElement;
 
 /**
  * This class implements {@link org.w3c.dom.svg.SVGColorProfileElement}.

@@ -20,7 +20,7 @@ package org.apache.batik.css.engine.sac;
 
 import java.util.Set;
 
-import org.w3c.css.sac.ElementSelector;
+import org.apache.xmlext.org.w3c.css.sac.ElementSelector;
 
 /**
  * This class provides an abstract implementation of the ElementSelector

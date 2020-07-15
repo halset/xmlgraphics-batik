@@ -18,9 +18,9 @@
  */
 package org.apache.batik.css.parser;
 
-import org.w3c.css.sac.DescendantSelector;
-import org.w3c.css.sac.Selector;
-import org.w3c.css.sac.SimpleSelector;
+import org.apache.xmlext.org.w3c.css.sac.DescendantSelector;
+import org.apache.xmlext.org.w3c.css.sac.Selector;
+import org.apache.xmlext.org.w3c.css.sac.SimpleSelector;
 
 /**
  * This class provides an abstract implementation of the

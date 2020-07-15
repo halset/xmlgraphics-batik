@@ -64,14 +64,14 @@ import org.w3c.dom.EntityReference;
 import org.w3c.dom.Node;
 import org.w3c.dom.ProcessingInstruction;
 import org.w3c.dom.Text;
-import org.w3c.dom.css.CSSStyleDeclaration;
-import org.w3c.dom.css.DocumentCSS;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleDeclaration;
+import org.apache.xmlext.org.w3c.dom.css.DocumentCSS;
 import org.w3c.dom.events.Event;
 import org.w3c.dom.events.EventListener;
 import org.w3c.dom.events.MutationEvent;
-import org.w3c.dom.svg.SVGDocument;
-import org.w3c.dom.svg.SVGLangSpace;
-import org.w3c.dom.svg.SVGSVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLangSpace;
+import org.apache.xmlext.org.w3c.dom.svg.SVGSVGElement;
 
 /**
  * This class implements {@link SVGDocument}.

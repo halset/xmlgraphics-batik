@@ -27,7 +27,7 @@ import org.apache.batik.ext.awt.geom.ExtendedGeneralPath;
 import org.apache.batik.parser.DefaultPathHandler;
 import org.apache.batik.parser.ParseException;
 import org.apache.batik.parser.PathParser;
-import org.w3c.dom.svg.SVGPathSeg;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSeg;
 
 /**
  * This class is the implementation of the normalized

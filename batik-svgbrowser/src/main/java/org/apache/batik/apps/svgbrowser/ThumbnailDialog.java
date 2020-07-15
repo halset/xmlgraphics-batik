@@ -57,8 +57,8 @@ import org.apache.batik.swing.svg.SVGDocumentLoaderEvent;
 import org.apache.batik.util.resources.ResourceManager;
 import org.apache.batik.util.SVGConstants;
 
-import org.w3c.dom.svg.SVGDocument;
-import org.w3c.dom.svg.SVGSVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGSVGElement;
 
 /**
  * This class represents a Dialog that displays a Thumbnail of the current SVG

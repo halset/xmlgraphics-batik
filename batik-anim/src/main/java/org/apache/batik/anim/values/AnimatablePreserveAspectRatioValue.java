@@ -21,7 +21,7 @@ package org.apache.batik.anim.values;
 import org.apache.batik.anim.dom.AnimationTarget;
 import org.apache.batik.util.SVGConstants;
 
-import org.w3c.dom.svg.SVGPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPreserveAspectRatio;
 
 /**
  * An SVG preserveAspectRatio value in the animation system.

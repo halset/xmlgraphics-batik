@@ -24,8 +24,8 @@ import org.apache.batik.dom.util.XMLSupport;
 
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAnimatedString;
-import org.w3c.dom.svg.SVGGlyphRefElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedString;
+import org.apache.xmlext.org.w3c.dom.svg.SVGGlyphRefElement;
 
 /**
  * This class implements {@link SVGGlyphRefElement}.

@@ -34,7 +34,7 @@ import org.apache.batik.gvt.ShapeNode;
 import org.apache.batik.parser.AWTPathProducer;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGPathSegList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegList;
 
 /**
  * Bridge class for the &lt;path&gt; element.

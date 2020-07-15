@@ -43,13 +43,13 @@ import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAnimatedInteger;
-import org.w3c.dom.svg.SVGAnimatedNumber;
-import org.w3c.dom.svg.SVGElement;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGFitToViewBox;
-import org.w3c.dom.svg.SVGLength;
-import org.w3c.dom.svg.SVGSVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedInteger;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedNumber;
+import org.apache.xmlext.org.w3c.dom.svg.SVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGFitToViewBox;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGSVGElement;
 
 /**
  * This class implements the {@link SVGElement} interface.

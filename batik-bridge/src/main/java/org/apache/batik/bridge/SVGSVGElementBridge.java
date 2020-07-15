@@ -46,9 +46,9 @@ import org.apache.batik.gvt.ShapeNode;
 
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
-import org.w3c.dom.svg.SVGDocument;
-import org.w3c.dom.svg.SVGRect;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedPreserveAspectRatio;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGRect;
 
 /**
  * Bridge class for the &lt;svg&gt; element.

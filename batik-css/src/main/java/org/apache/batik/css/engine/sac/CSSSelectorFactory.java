@@ -18,18 +18,18 @@
  */
 package org.apache.batik.css.engine.sac;
 
-import org.w3c.css.sac.CSSException;
-import org.w3c.css.sac.CharacterDataSelector;
-import org.w3c.css.sac.Condition;
-import org.w3c.css.sac.ConditionalSelector;
-import org.w3c.css.sac.DescendantSelector;
-import org.w3c.css.sac.ElementSelector;
-import org.w3c.css.sac.NegativeSelector;
-import org.w3c.css.sac.ProcessingInstructionSelector;
-import org.w3c.css.sac.Selector;
-import org.w3c.css.sac.SelectorFactory;
-import org.w3c.css.sac.SiblingSelector;
-import org.w3c.css.sac.SimpleSelector;
+import org.apache.xmlext.org.w3c.css.sac.CSSException;
+import org.apache.xmlext.org.w3c.css.sac.CharacterDataSelector;
+import org.apache.xmlext.org.w3c.css.sac.Condition;
+import org.apache.xmlext.org.w3c.css.sac.ConditionalSelector;
+import org.apache.xmlext.org.w3c.css.sac.DescendantSelector;
+import org.apache.xmlext.org.w3c.css.sac.ElementSelector;
+import org.apache.xmlext.org.w3c.css.sac.NegativeSelector;
+import org.apache.xmlext.org.w3c.css.sac.ProcessingInstructionSelector;
+import org.apache.xmlext.org.w3c.css.sac.Selector;
+import org.apache.xmlext.org.w3c.css.sac.SelectorFactory;
+import org.apache.xmlext.org.w3c.css.sac.SiblingSelector;
+import org.apache.xmlext.org.w3c.css.sac.SimpleSelector;
 
 /**
  * This class implements the {@link org.w3c.css.sac.SelectorFactory} interface.

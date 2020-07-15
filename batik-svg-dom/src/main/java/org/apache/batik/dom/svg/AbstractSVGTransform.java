@@ -20,8 +20,8 @@ package org.apache.batik.dom.svg;
 
 import java.awt.geom.AffineTransform;
 
-import org.w3c.dom.svg.SVGMatrix;
-import org.w3c.dom.svg.SVGTransform;
+import org.apache.xmlext.org.w3c.dom.svg.SVGMatrix;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTransform;
 
 /**
  * Abstract implementation of {@link SVGTransform}.

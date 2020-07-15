@@ -19,7 +19,7 @@
 package org.apache.batik.css.engine.value;
 
 import org.apache.batik.util.CSSConstants;
-import org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
 
 /**
  * This interface defines constants for CSS values.

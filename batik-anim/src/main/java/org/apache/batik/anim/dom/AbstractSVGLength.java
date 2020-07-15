@@ -23,7 +23,7 @@ import org.apache.batik.parser.ParseException;
 import org.apache.batik.parser.UnitProcessor;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLength;
 
 /**
  * Default implementation for SVGLength.

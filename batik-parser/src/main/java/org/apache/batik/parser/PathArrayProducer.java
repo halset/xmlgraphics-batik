@@ -21,7 +21,7 @@ package org.apache.batik.parser;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-import org.w3c.dom.svg.SVGPathSeg;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSeg;
 
 /**
  * A handler class that generates an array of shorts and an array floats from

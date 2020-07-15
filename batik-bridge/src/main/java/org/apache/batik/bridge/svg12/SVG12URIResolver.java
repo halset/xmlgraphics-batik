@@ -27,7 +27,7 @@ import org.apache.batik.dom.xbl.XBLShadowTreeElement;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * A URIResolver for SVG 1.2 documents.  This is to allow resolution of

@@ -41,18 +41,18 @@ import org.apache.batik.i18n.LocalizableSupport;
 import org.apache.batik.util.ParsedURL;
 import org.apache.batik.util.SVGConstants;
 
-import org.w3c.css.sac.InputSource;
+import org.apache.xmlext.org.w3c.css.sac.InputSource;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Document;
 import org.w3c.dom.DocumentType;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.css.CSSStyleDeclaration;
-import org.w3c.dom.css.CSSStyleSheet;
-import org.w3c.dom.css.ViewCSS;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleDeclaration;
+import org.apache.xmlext.org.w3c.dom.css.CSSStyleSheet;
+import org.apache.xmlext.org.w3c.dom.css.ViewCSS;
 import org.w3c.dom.events.Event;
-import org.w3c.dom.stylesheets.StyleSheet;
+import org.apache.xmlext.org.w3c.dom.stylesheets.StyleSheet;
 
 /**
  * This class implements the {@link DOMImplementation} interface.

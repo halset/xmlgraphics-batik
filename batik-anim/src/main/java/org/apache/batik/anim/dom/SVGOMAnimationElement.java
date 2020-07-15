@@ -26,10 +26,10 @@ import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAnimatedBoolean;
-import org.w3c.dom.svg.SVGAnimationElement;
-import org.w3c.dom.svg.SVGElement;
-import org.w3c.dom.svg.SVGStringList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedBoolean;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimationElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGStringList;
 
 /**
  * This class provides an implementation of the {@link SVGAnimationElement} interface.

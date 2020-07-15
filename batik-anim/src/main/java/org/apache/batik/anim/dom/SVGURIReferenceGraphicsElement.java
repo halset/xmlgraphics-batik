@@ -22,7 +22,7 @@ import org.apache.batik.dom.AbstractDocument;
 import org.apache.batik.util.DoublyIndexedTable;
 import org.apache.batik.util.SVGTypes;
 
-import org.w3c.dom.svg.SVGAnimatedString;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedString;
 
 /**
  * This class provides support for Xlink to a graphics element.

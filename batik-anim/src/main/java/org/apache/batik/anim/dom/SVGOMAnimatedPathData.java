@@ -44,10 +44,10 @@ import org.apache.batik.parser.PathArrayProducer;
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.DOMException;
-import org.w3c.dom.svg.SVGAnimatedPathData;
-import org.w3c.dom.svg.SVGException;
-import org.w3c.dom.svg.SVGPathSeg;
-import org.w3c.dom.svg.SVGPathSegList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAnimatedPathData;
+import org.apache.xmlext.org.w3c.dom.svg.SVGException;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSeg;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPathSegList;
 
 /**
  * This class is the implementation of the {@link SVGAnimatedPathData}

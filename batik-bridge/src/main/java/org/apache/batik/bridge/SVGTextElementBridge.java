@@ -72,15 +72,15 @@ import org.apache.batik.constants.XMLConstants;
 
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.CSSValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSPrimitiveValue;
+import org.apache.xmlext.org.w3c.dom.css.CSSValue;
 import org.w3c.dom.events.Event;
 import org.w3c.dom.events.EventListener;
 import org.w3c.dom.events.MutationEvent;
-import org.w3c.dom.svg.SVGLengthList;
-import org.w3c.dom.svg.SVGNumberList;
-import org.w3c.dom.svg.SVGTextContentElement;
-import org.w3c.dom.svg.SVGTextPositioningElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLengthList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGNumberList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTextContentElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGTextPositioningElement;
 
 /**
  * Bridge class for the &lt;text&gt; element.

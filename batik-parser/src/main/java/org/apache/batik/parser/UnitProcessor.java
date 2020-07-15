@@ -19,7 +19,7 @@
 package org.apache.batik.parser;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGLength;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLength;
 
 /**
  * This class provides methods to convert SVG length and coordinate to

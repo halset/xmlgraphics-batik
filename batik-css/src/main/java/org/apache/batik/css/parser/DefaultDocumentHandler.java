@@ -18,12 +18,12 @@
  */
 package org.apache.batik.css.parser;
 
-import org.w3c.css.sac.CSSException;
-import org.w3c.css.sac.DocumentHandler;
-import org.w3c.css.sac.InputSource;
-import org.w3c.css.sac.LexicalUnit;
-import org.w3c.css.sac.SACMediaList;
-import org.w3c.css.sac.SelectorList;
+import org.apache.xmlext.org.w3c.css.sac.CSSException;
+import org.apache.xmlext.org.w3c.css.sac.DocumentHandler;
+import org.apache.xmlext.org.w3c.css.sac.InputSource;
+import org.apache.xmlext.org.w3c.css.sac.LexicalUnit;
+import org.apache.xmlext.org.w3c.css.sac.SACMediaList;
+import org.apache.xmlext.org.w3c.css.sac.SelectorList;
 
 /**
  * This class provides a default implementation of the SAC DocumentHandler.

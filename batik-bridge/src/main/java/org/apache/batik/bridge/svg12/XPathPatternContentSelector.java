@@ -30,7 +30,7 @@ import org.apache.batik.dom.AbstractDocument;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-import org.w3c.dom.xpath.XPathException;
+import org.apache.xmlext.org.w3c.dom.xpath.XPathException;
 
 /**
  * A class to handle the XPath Pattern syntax for XBL content elements.

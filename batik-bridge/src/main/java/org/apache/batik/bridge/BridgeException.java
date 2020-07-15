@@ -22,7 +22,7 @@ import org.apache.batik.dom.svg.LiveAttributeException;
 import org.apache.batik.gvt.GraphicsNode;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
 
 /**
  * Thrown when the bridge has detected an error.

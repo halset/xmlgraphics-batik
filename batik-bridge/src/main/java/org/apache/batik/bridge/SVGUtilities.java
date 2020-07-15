@@ -39,10 +39,10 @@ import org.apache.batik.util.SVG12Constants;
 import org.apache.batik.util.SVGConstants;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-import org.w3c.dom.svg.SVGDocument;
-import org.w3c.dom.svg.SVGElement;
-import org.w3c.dom.svg.SVGLangSpace;
-import org.w3c.dom.svg.SVGNumberList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGDocument;
+import org.apache.xmlext.org.w3c.dom.svg.SVGElement;
+import org.apache.xmlext.org.w3c.dom.svg.SVGLangSpace;
+import org.apache.xmlext.org.w3c.dom.svg.SVGNumberList;
 
 /**
  * A collection of utility methods for SVG.

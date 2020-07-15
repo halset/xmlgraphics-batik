@@ -20,7 +20,7 @@ package org.apache.batik.anim.values;
 
 import org.apache.batik.anim.dom.AnimationTarget;
 
-import org.w3c.dom.svg.SVGAngle;
+import org.apache.xmlext.org.w3c.dom.svg.SVGAngle;
 
 /**
  * An SVG angle value in the animation system.

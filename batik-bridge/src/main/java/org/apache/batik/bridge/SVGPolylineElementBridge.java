@@ -30,8 +30,8 @@ import org.apache.batik.gvt.ShapeNode;
 import org.apache.batik.parser.AWTPolylineProducer;
 
 import org.w3c.dom.Element;
-import org.w3c.dom.svg.SVGPoint;
-import org.w3c.dom.svg.SVGPointList;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPoint;
+import org.apache.xmlext.org.w3c.dom.svg.SVGPointList;
 
 /**
  * Bridge class for the &lt;polyline&gt; element.

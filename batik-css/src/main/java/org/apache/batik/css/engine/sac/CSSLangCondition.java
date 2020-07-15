@@ -22,7 +22,7 @@ import java.util.Set;
 
 import org.apache.batik.constants.XMLConstants;
 
-import org.w3c.css.sac.LangCondition;
+import org.apache.xmlext.org.w3c.css.sac.LangCondition;
 import org.w3c.dom.Element;
 
 /**

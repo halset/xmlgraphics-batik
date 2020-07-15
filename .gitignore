@@ -3,3 +3,6 @@
 .project
 .settings
 target
+samples/anne.pdf
+samples/anne.png
+test-resources/org/apache/batik/apps/rasterizer/invalidSVG.png
